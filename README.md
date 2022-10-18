@@ -12,19 +12,18 @@
    Examples:
    Input: str1 = “abcdef”, str2 = “axcdfdh”
    Output:
-   Method 1:
-   Add h
-
-Change f to d
-Change e to f
-Change b to x
-Method 2:
-Change f to h
-Add d
-Change e to f
-Change b to x
-Method 3:
-Change f to h
-Change e to d
-Add f
-Change b to x
+   #### Method 1:
+   - Add h
+   - Change f to d
+   - Change e to f
+   - Change b to x
+   #### Method 2:
+   - Change f to h
+   - Add d
+   - Change e to f
+   - Change b to x
+   #### Method 3:
+   - Change f to h
+   - Change e to d
+   - Add f
+   - Change b to x
